@@ -6,4 +6,4 @@ An accumulation of efficient case transformation tools
 Capitalizes first letter of each word.
 
 ### ucFirst
-Capitalized first letter of each senctence.
+Capitalizes first letter of each senctence.
